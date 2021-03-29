@@ -24,5 +24,17 @@
     <ClCompile Include="new_id.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="soopo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Kthnum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="physical.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2016.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
